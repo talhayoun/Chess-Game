@@ -1,0 +1,7 @@
+D:\Talpiot Hightech\C# lessons answers && project\ChessGame Project\ChessGame Project\bin\Debug\ChessGame Project.exe.config
+D:\Talpiot Hightech\C# lessons answers && project\ChessGame Project\ChessGame Project\bin\Debug\ChessGame Project.exe
+D:\Talpiot Hightech\C# lessons answers && project\ChessGame Project\ChessGame Project\bin\Debug\ChessGame Project.pdb
+D:\Talpiot Hightech\C# lessons answers && project\ChessGame Project\ChessGame Project\obj\Debug\ChessGame Project.csprojAssemblyReference.cache
+D:\Talpiot Hightech\C# lessons answers && project\ChessGame Project\ChessGame Project\obj\Debug\ChessGame Project.csproj.CoreCompileInputs.cache
+D:\Talpiot Hightech\C# lessons answers && project\ChessGame Project\ChessGame Project\obj\Debug\ChessGame Project.exe
+D:\Talpiot Hightech\C# lessons answers && project\ChessGame Project\ChessGame Project\obj\Debug\ChessGame Project.pdb
